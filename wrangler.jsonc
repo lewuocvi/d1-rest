@@ -16,9 +16,9 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "<YOUR-STORE-ID>",
+            "store_id": "d8d5dc349f7f4993957478a033aad716",
             "binding": "SECRET",
-            "secret_name": "<YOUR-SECRET-NAME>"
+            "secret_name": "authorization"
         }
     ],
 	"observability": {
